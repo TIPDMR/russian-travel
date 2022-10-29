@@ -5,10 +5,9 @@
   text-decoration: none;
 }
 
-
-@media screen and (max-width:568px) {
+@media screen and (max-width: 568px) {
   .footer-menu__link {
     font-size: 1.5rem;
-    line-height: 1.000;
+    line-height: 1;
   }
 }

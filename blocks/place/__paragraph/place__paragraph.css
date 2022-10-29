@@ -5,16 +5,9 @@
   margin: 0;
 }
 
-@media screen and (max-width:984px) {
+@media screen and (max-width: 984px) {
   .place__paragraph {
     font-size: 1rem;
-    line-height: 1.630;
-  }
-}
-
-@media screen and (max-width:568px) {
-  .place__paragraph {
-    font-size: 1rem;
-    line-height: 1.630;
+    line-height: 1.63;
   }
 }

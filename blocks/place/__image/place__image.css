@@ -1,16 +1,12 @@
-.place__image{
+.place__image {
   grid-area: image;
   object-fit: contain;
   object-position: center;
   width: 100%;
 }
 
-
-@media screen and (max-width:568px) {
+@media screen and (max-width: 568px) {
   .place__image {
-    grid-area: image;
-    object-fit: contain;
-    object-position: center;
     width: calc(100% + 32px);
     margin-left: -16px;
   }

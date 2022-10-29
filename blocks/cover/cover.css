@@ -1,15 +1,11 @@
 .cover {
-  justify-self: center;
-
-
-
   font-family: 'Inter', Arial, sans-serif;
   font-style: normal;
   font-weight: 400;
-
   background-image: url(../../images/cover/background.jpg);
   background-repeat: no-repeat;
   background-size: cover;
+  background-position: center;
   max-width: 1184px;
   min-height: 740px;
   width: 100%;
@@ -17,26 +13,20 @@
   position: relative;
 }
 
-@media screen and (max-width:1140px) {
+@media screen and (max-width: 1140px) {
   .cover {
-
     min-height: 640px;
-
   }
 }
 
-@media screen and (max-width:984px) {
+@media screen and (max-width: 984px) {
   .cover {
-
     min-height: 480px;
   }
 }
 
-
-
-@media screen and (max-width:568px) {
+@media screen and (max-width: 568px) {
   .cover {
-
     min-height: 200px;
   }
 }

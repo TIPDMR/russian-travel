@@ -6,21 +6,14 @@
   object-position: center;
 }
 
-@media screen and (max-width:1140px) {
+@media screen and (max-width: 1140px) {
   .lead__image {
     margin-top: 56px;
   }
 }
 
-@media screen and (max-width:984px) {
-  .lead__image {
-    margin-top: 56px;
-  }
-}
-
-@media screen and (max-width:568px) {
+@media screen and (max-width: 568px) {
   .lead__image {
     margin-top: 40px;
-
   }
 }

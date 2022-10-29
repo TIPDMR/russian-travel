@@ -2,19 +2,13 @@
   padding: 56px 48px 0 48px;
 }
 
-@media screen and (max-width:1140px) {
+@media screen and (max-width: 1140px) {
   .content__lead {
     padding: 48px 48px 0;
   }
 }
 
-@media screen and (max-width:984px) {
-  .content__lead {
-    padding: 48px 0 0;
-  }
-}
-
-@media screen and (max-width:568px) {
+@media screen and (max-width: 984px) {
   .content__lead {
     padding: 48px 0 0;
   }

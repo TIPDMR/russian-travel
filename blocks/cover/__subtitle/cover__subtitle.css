@@ -6,22 +6,6 @@
   margin: 0;
 }
 
-@media screen and (max-width:1140px) {
-  .cover__subtitle {
-    font-size: 1.125rem;
-    line-height: 1.222;
-  }
-}
-
-@media screen and (max-width:984px) {
-  .cover__subtitle {
-    font-size: 1.125rem;
-    line-height: 1.222;
-  }
-}
-
-
-
 @media screen and (max-width:568px) {
   .cover__subtitle {
     font-size: 0.875rem;
