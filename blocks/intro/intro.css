@@ -1,0 +1,9 @@
+.intro {
+  font-family: 'Inter', Arial, sans-serif;
+  font-style: normal;
+  font-weight: 400;
+  display: flex;
+  max-width: 720px;
+  flex-direction: column;
+}
+
