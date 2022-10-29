@@ -1,9 +1,10 @@
-.content__footer {
+
+.page__footer {
   margin: 92px 48px 0 48px;
 }
 
 @media screen and (max-width:568px) {
-  .content__footer {
+  .page__footer {
     margin: 64px 16px 0;
   }
 }
