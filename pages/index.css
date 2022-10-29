@@ -4,7 +4,6 @@
 
 /*Page*/
 @import url(../blocks/page/page.css);
-@import url(../blocks/page/__content/page__content.css);
 @import url(../blocks/page/__header/page__header.css);
 
 /*Content Section*/
@@ -13,7 +12,6 @@
 @import url(../blocks/content/__lead/content__lead.css);
 @import url(../blocks/content/__photo-grid/content__photo-grid.css);
 @import url(../blocks/content/__places/content__places.css);
-@import url(../blocks/content/__cover/content__cover.css);
 @import url(../blocks/content/__footer/content__footer.css);
 
 /*Header*/
@@ -43,7 +41,6 @@
 
 /*Places*/
 @import url(../blocks/places/places.css);
-@import url(../blocks/places/__place/places__place.css);
 
 /*Place*/
 @import url(../blocks/place/place.css);
@@ -65,7 +62,6 @@
 /*Footer*/
 @import url(../blocks/footer/footer.css);
 @import url(../blocks/footer/__copyright/footer__copyright.css);
-@import url(../blocks/footer/__footer-menu/footer__footer-menu.css);
 
 /*Footer Menu*/
 @import url(../blocks/footer-menu/footer-menu.css);
